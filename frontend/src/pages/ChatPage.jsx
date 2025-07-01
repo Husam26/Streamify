@@ -139,11 +139,6 @@ const ChatPage = () => {
     }
   };
   
-  
-  
-  
-  
-  
 
   if (loading || !chatClient || !channel) return <ChatLoader />;
 
